@@ -1,6 +1,6 @@
 # React + Vite
 
-Nelify link- https://app.netlify.com/sites/rainbow-bombolone-8d331a/overview
+Nelify link- https://rainbow-bombolone-8d331a.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
